@@ -36,5 +36,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+## :hammer: Tools I use...
+<p >
+  <img src="https://img.shields.io/badge/atom%20-90b061.svg?&style=for-the-badge&logo=atom&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github%20-9da39d.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ubuntu%20-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
 ###### README style inspired by [@StefanyVasc](https://github.com/StefanyVasc)
 
