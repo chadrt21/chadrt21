@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <p >
   <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/php%20-%230769ad.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/android_studio%20-%669933.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 ## :hammer: Tools I use...
