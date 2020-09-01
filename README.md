@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 Haven't yet decided on what kind of game to do that goes with the theme of 404
   
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+### DnD Web Master Screen
+A school project: Dungeon Master(DM) screen for DMs to plan, track, and tell their campaigns 
+
+<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 ### Stock Tracker Widget Android App
 Fork of [Stocks Tracker Widget](https://github.com/premnirmal/StockTicker) but includes trends of 1 week, 1 month, and 1 year on the widget
 
