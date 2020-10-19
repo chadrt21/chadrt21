@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Chad
 I am a recent grad from Biola University and I am looking to apply my knowlege and experence in the software engineering.
 
-<a href="https://twitter.com/chadrt21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chad-ross-200a30110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://chadrt21.github.io/"><img src="https://img.shields.io/badge/My Blog-343a40.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/chadrt21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chad-ross-200a30110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://chadrt21.github.io/"><img src="https://img.shields.io/badge/Blog | CS Bits-343a40.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <!--
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Haven't yet decided on what kind of game to do that goes with the theme of 404
   
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-### DnD Web Master Screen
+### [Campgain Buddy](https://github.com/chadrt21/dnd-webMaster)
 A school project: Dungeon Master(DM) screen for DMs to plan, track, and tell their campaigns 
 
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
