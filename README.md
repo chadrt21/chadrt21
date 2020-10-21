@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 Haven't yet decided on what kind of game to do that goes with the theme of 404
   
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-### [Campgain Buddy](https://github.com/chadrt21/dnd-webMaster)
-A school project: Dungeon Master(DM) screen for DMs to plan, track, and tell their campaigns 
+### [Campaign Buddy](https://github.com/chadrt21/dnd-webMaster)
+A school group project: Dungeon Master(DM) screen for DMs to plan, track, and tell their campaigns 
 
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 ### Stock Tracker Widget Android App
