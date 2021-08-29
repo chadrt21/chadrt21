@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 ### js13k game
-Haven't yet decided on what kind of game to do that goes with the theme of 404
+Haven't yet decided on what kind of game to do that goes with the theme of space
   
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 ### [Campaign Buddy](https://github.com/chadrt21/dnd-webMaster)
