@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Chad
 I am a recent grad from Biola University and I am looking to apply my knowlege and experence in the software engineering.
 
-<a href="https://twitter.com/chadrt21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chad-ross-200a30110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://chadrt21.github.io/"><img src="https://img.shields.io/badge/Blog | CS Bits-343a40.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/chadrt21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chad-ross-200a30110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://chadross.dev/"><img src="https://img.shields.io/badge/Profile-343a40.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <!--
@@ -20,18 +20,23 @@ Here are some ideas to get you started:
 
 
 ## 💻 I’m currently working on ...
-### js13k game
-Haven't yet decided on what kind of game to do that goes with the theme of space
+### [Github Game Off 2021: Bug Hunt](https://github.com/chadrt21/bug-hunt)
+Github Game Off 2021 is an annual game jam, where participants spend the month of November creating games based on a secret theme. Participate individually, or as a team. Use whatever game engines, libraries, and languages you like.
+
+The theme for this year's Game Off is **BUG**.
   
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 ### [Campaign Buddy](https://github.com/chadrt21/dnd-webMaster)
 A school group project: Dungeon Master(DM) screen for DMs to plan, track, and tell their campaigns 
 
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-### Stock Tracker Widget Android App
+
+<!-- ### Stock Tracker Widget Android App
 Fork of [Stocks Tracker Widget](https://github.com/premnirmal/StockTicker) but includes trends of 1 week, 1 month, and 1 year on the widget
 
  <img src="https://img.shields.io/badge/android_studio%20-%669933.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kotlin%20-FF8C00.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;&nbsp;
+
+-->
 
 ## 🌱 I'm currently learning...
 <p >
