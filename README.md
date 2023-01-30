@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋, I'm Chad
 I am a recent grad from Biola University and I am looking to apply my knowlege and experence in software engineering.
 -->
-![](Animation.gif)
+[![](Animation.gif)](https://chadross.dev/)
 <a href="https://twitter.com/chadrt21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chad-ross-200a30110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://chadross.dev/"><img src="https://img.shields.io/badge/Profile-343a40.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
