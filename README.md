@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 
 ## 💻 I’m currently working on ...
-### [MinMax DnD](https://minmaxdnd.com/)
+### [MinMax DnD](https://minmaxdnd.com/) 
 Min Max DnD is an Dugeons and Dragons toolboox to create, plan, and develop multiclass characters.
+
+<img src="https://img.shields.io/static/v1?label=status&message=development&color=green&style=for-the-badge" />&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 
@@ -31,9 +33,13 @@ Github Game Off 2021 is an annual game jam, where participants spend the month o
 
 The theme for this year's Game Off is **BUG**.
 
+<img src="https://img.shields.io/static/v1?label=status&message=prototyping&color=yellow&style=for-the-badge" />&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 ### [Campaign Buddy](https://github.com/chadrt21/dnd-webMaster)
-A school group project: Dungeon Master(DM) screen for DMs to plan, track, and tell their campaigns 
+Web application for Game Masters of TTRGB to orgainize, prep, and run their games from all one place. Includes quick reference notes, interactive maps, integrated music, customizeable dice role generator, and more. 
+
+<img src="https://img.shields.io/static/v1?label=status&message=on/off development&color=grey&style=for-the-badge" />&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 
@@ -56,18 +62,27 @@ Fork of [Stocks Tracker Widget](https://github.com/premnirmal/StockTicker) but i
 
 ## :hammer: Tools I use...
 <p>
-  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/c%2B%2B%20-%231572B6.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c%2B%2B%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java%20-FF8C00.svg?&style=for-the-badge&logo=Java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tensorflow%20-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;
   <!-- <img src="https://img.shields.io/badge/android_studio%20-%669933.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp; -->
 </p>
 <p >
-  <img src="https://img.shields.io/badge/atom%20-90b061.svg?&style=for-the-badge&logo=atom&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WebStorm%20-07baf3.svg?&style=for-the-badge&logo=jetbrains&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PyCharm%20-21d789.svg?&style=for-the-badge&logo=jetbrains&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CLion%20-029de1.svg?&style=for-the-badge&logo=jetbrains&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ%20-cb40a2.svg?&style=for-the-badge&logo=jetbrains&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p> 
   <img src="https://img.shields.io/badge/github%20-333.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ubuntu%20-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/windows%20-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+  <!-- 
   <img src="https://img.shields.io/badge/Slack%20-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/discord%20-738ADB.svg?&style=for-the-badge&logo=discord&logoColor=white" />&nbsp;&nbsp;
+  -->
 </p>
 
 <!-- ###### README style inspired by [@StefanyVasc](https://github.com/StefanyVasc) -->
