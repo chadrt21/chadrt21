@@ -2,8 +2,6 @@
 I am a recent grad from Biola University and I am looking to apply my knowlege and experence in software engineering.
 -->
 
-
-[![](Animation.gif)](https://chadross.dev/)
 <a href="https://twitter.com/chadrt21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chad-ross-200a30110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://chadross.dev/"><img src="https://img.shields.io/badge/Profile-343a40.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
@@ -23,6 +21,13 @@ Here are some ideas to get you started:
 
 
 ## 💻 I’m currently working on ...
+### ToolBox 
+Custom protable application for comptuer diagnostics and repairs, including customizable austom scripts that tests, repairs and reports hardware, software, and operating system issues and vulnerabilities as well perform other tasks such as backups, restore point managment, setup and maintenance, and forensics.
+
+<img src="https://img.shields.io/static/v1?label=status&message=development&color=green&style=for-the-badge" />&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/C Sharp%20-512bd4.svg?&style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;
+
 ### [MinMax DnD](https://minmaxdnd.com/) 
 Min Max DnD is an Dugeons and Dragons toolboox to create, plan, and develop multiclass characters.
 
@@ -82,6 +87,7 @@ Fork of [Stocks Tracker Widget](https://github.com/premnirmal/StockTicker) but i
   <img src="https://img.shields.io/badge/github%20-333.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ubuntu%20-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/windows%20-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/docker%20-0078D6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <!-- 
   <img src="https://img.shields.io/badge/Slack%20-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/discord%20-738ADB.svg?&style=for-the-badge&logo=discord&logoColor=white" />&nbsp;&nbsp;
