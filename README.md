@@ -28,6 +28,15 @@ Custom protable application for comptuer diagnostics and repairs, including cust
 
 <img src="https://img.shields.io/badge/C Sharp%20-512bd4.svg?&style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;
 
+### JS13K 2025: Black cat
+JS13K 2025 is an annual game copetition where contestants make a video game in javascript however the catch is that it has to be 13KB or smaller in size.
+
+The theme for this year's JS13k is **Black Cat**.
+
+<img src="https://img.shields.io/static/v1?label=status&message=prototyping&color=yellow&style=for-the-badge" />&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+
 ### [MinMax DnD](https://minmaxdnd.com/) 
 Min Max DnD is an Dugeons and Dragons toolboox to create, plan, and develop multiclass characters.
 
@@ -35,15 +44,6 @@ Min Max DnD is an Dugeons and Dragons toolboox to create, plan, and develop mult
 
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 
-
-### [Github Game Off 2021: Bug Hunt](https://github.com/chadrt21/bug-hunt)
-Github Game Off 2021 is an annual game jam, where participants spend the month of November creating games based on a secret theme. Participate individually, or as a team. Use whatever game engines, libraries, and languages you like.
-
-The theme for this year's Game Off is **BUG**.
-
-<img src="https://img.shields.io/static/v1?label=status&message=prototyping&color=yellow&style=for-the-badge" />&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 ### [Campaign Buddy](https://github.com/chadrt21/dnd-webMaster)
 Web application for Game Masters of TTRGB to orgainize, prep, and run their games from all one place. Includes quick reference notes, interactive maps, integrated music, customizeable dice role generator, and more. 
 
