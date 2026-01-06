@@ -2,7 +2,7 @@
 I am a recent grad from Biola University and I am looking to apply my knowlege and experence in software engineering.
 -->
 
-<a href="https://twitter.com/chadrt21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chad-ross-200a30110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://chadross.dev/"><img src="https://img.shields.io/badge/Profile-343a40.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/chadrt21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chadtross/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://chadross.dev/"><img src="https://img.shields.io/badge/Profile-343a40.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <!--
@@ -21,21 +21,12 @@ Here are some ideas to get you started:
 
 
 ## 💻 I’m currently working on ...
-### ToolBox 
+### TOLBOX 
 Custom protable application for comptuer diagnostics and repairs, including customizable austom scripts that tests, repairs and reports hardware, software, and operating system issues and vulnerabilities as well perform other tasks such as backups, restore point managment, setup and maintenance, and forensics.
 
 <img src="https://img.shields.io/static/v1?label=status&message=development&color=green&style=for-the-badge" />&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/C Sharp%20-512bd4.svg?&style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;
-
-### JS13K 2025: Black cat
-JS13K 2025 is an annual game copetition where contestants make a video game in javascript however the catch is that it has to be 13KB or smaller in size.
-
-The theme for this year's JS13k is **Black Cat**.
-
-<img src="https://img.shields.io/static/v1?label=status&message=prototyping&color=yellow&style=for-the-badge" />&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C++%20-029de1.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp;
 
 ### [MinMax DnD](https://minmaxdnd.com/) 
 Min Max DnD is an Dugeons and Dragons toolboox to create, plan, and develop multiclass characters.
@@ -44,12 +35,12 @@ Min Max DnD is an Dugeons and Dragons toolboox to create, plan, and develop mult
 
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 
-### [Campaign Buddy](https://github.com/chadrt21/dnd-webMaster)
-Web application for Game Masters of TTRGB to orgainize, prep, and run their games from all one place. Includes quick reference notes, interactive maps, integrated music, customizeable dice role generator, and more. 
+### [Opt Time](https://github.com/chadrt21/Opt-Time)
+Android analog clock widget application that is customizable to optimize users perception of time.
 
-<img src="https://img.shields.io/static/v1?label=status&message=on/off development&color=grey&style=for-the-badge" />&nbsp;&nbsp;
+<img src="https://img.shields.io/static/v1?label=status&message=prototype&color=yellow&style=for-the-badge" />&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kotlin%20-ee640c.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;&nbsp;
 
 <!-- ### Stock Tracker Widget Android App
 Fork of [Stocks Tracker Widget](https://github.com/premnirmal/StockTicker) but includes trends of 1 week, 1 month, and 1 year on the widget
