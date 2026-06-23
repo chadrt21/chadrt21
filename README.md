@@ -1,6 +1,7 @@
-<!-- ### Hi there 👋, I'm Chad
-I am a recent grad from Biola University and I am looking to apply my knowlege and experence in software engineering.
--->
+![hero banner](Animation2.gif)
+ ### Hi there 👋, I'm Chad
+I am a $${\color{#FF4500}Software\ engineer}$$, $${\color{#FF4500}IT\ technician}$$, and $${\color{#FF4500}cybersecurity\ researcher}$$. I specialize in building high-performance web applications, managing secure IT operations, and analyzing infrastructure vulnerabilities.
+
 
 <a href="https://twitter.com/chadrt21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chadtross/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://chadross.dev/"><img src="https://img.shields.io/badge/Profile-343a40.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 💻 I’m currently working on ...
+<!-- ## 💻 I’m currently working on ...
 ### TOLBOX 
 Custom protable application for comptuer diagnostics and repairs, including customizable austom scripts that tests, repairs and reports hardware, software, and operating system issues and vulnerabilities as well perform other tasks such as backups, restore point managment, setup and maintenance, and forensics.
 
@@ -42,7 +43,7 @@ Android analog clock widget application that is customizable to optimize users p
 
 <img src="https://img.shields.io/badge/Kotlin%20-ee640c.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;&nbsp;
 
-<!-- ### Stock Tracker Widget Android App
+ ### Stock Tracker Widget Android App
 Fork of [Stocks Tracker Widget](https://github.com/premnirmal/StockTicker) but includes trends of 1 week, 1 month, and 1 year on the widget
 
  <img src="https://img.shields.io/badge/android_studio%20-%669933.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kotlin%20-FF8C00.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;&nbsp;
@@ -59,7 +60,7 @@ Fork of [Stocks Tracker Widget](https://github.com/premnirmal/StockTicker) but i
 </p>
 -->
 
-## :hammer: Tools I use...
+### Tools I use...
 <p>
   <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/c%2B%2B%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
@@ -77,8 +78,10 @@ Fork of [Stocks Tracker Widget](https://github.com/premnirmal/StockTicker) but i
 <p> 
   <img src="https://img.shields.io/badge/github%20-333.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ubuntu%20-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/kali%20-557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/windows%20-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-0078D6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/podman%20-892CA0.svg?&style=for-the-badge&logo=podman&logoColor=white" />&nbsp;&nbsp;
   <!-- 
   <img src="https://img.shields.io/badge/Slack%20-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/discord%20-738ADB.svg?&style=for-the-badge&logo=discord&logoColor=white" />&nbsp;&nbsp;
